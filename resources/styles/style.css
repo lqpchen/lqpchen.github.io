@@ -1,0 +1,76 @@
+body {
+  width: 50%;
+  font-size: 16px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+#header {
+  height: 2.5em;
+}
+
+#fullname {
+  float: left;
+}
+
+#fullname h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+nav ul {
+  display: inline;
+  float: right;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+main {
+  margin-top: 50px;
+}
+
+#aboutme section {
+  width: 100%;
+  display: inline-block;
+}
+
+#aboutme img {
+  float: right;
+  height: 30%;
+  width: 30%;
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 25%;
+  width: 50%;
+  text-align: center;
+}
+
+/* testing 
+*/
+
+
+
+

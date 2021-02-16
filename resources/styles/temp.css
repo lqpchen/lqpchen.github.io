@@ -1,0 +1,37 @@
+/* testing 
+*/
+body, div {
+  border-color: green;
+  border-width: 1px;
+  border-style: dotted;
+}
+
+header, main, footer {
+  border-color: red;
+  border-width: 2px;
+  border-style: dotted;
+}
+
+article {
+  border-color: blue;
+  border-width: 2px;
+  border-style: dotted;  
+}
+
+h1 {
+  border-color: blue;
+  border-width: 1px;
+  border-style: dotted;  
+}
+
+ul, ol {
+  border-color: purple;
+  border-width: 2px;
+  border-style: dotted;
+}
+
+li {
+  border-color: green;
+  border-width: 2px;
+  border-style: dotted;
+}
